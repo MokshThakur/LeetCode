@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/MokshThakur/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MokshThakur/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MokshThakur/LeetCode/tree/master/0136-single-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MokshThakur/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/MokshThakur/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MokshThakur/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MokshThakur/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MokshThakur/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/MokshThakur/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/MokshThakur/LeetCode/tree/master/0088-merge-sorted-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MokshThakur/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MokshThakur/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MokshThakur/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/MokshThakur/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MokshThakur/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MokshThakur/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MokshThakur/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
