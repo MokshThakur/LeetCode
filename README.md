@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/MokshThakur/LeetCode/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/MokshThakur/LeetCode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/MokshThakur/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MokshThakur/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MokshThakur/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/MokshThakur/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/MokshThakur/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/MokshThakur/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MokshThakur/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MokshThakur/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MokshThakur/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MokshThakur/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/MokshThakur/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MokshThakur/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/MokshThakur/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
@@ -258,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/MokshThakur/LeetCode/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/MokshThakur/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
