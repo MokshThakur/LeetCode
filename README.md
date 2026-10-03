@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MokshThakur/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/MokshThakur/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/MokshThakur/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/MokshThakur/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/MokshThakur/LeetCode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/MokshThakur/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MokshThakur/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MokshThakur/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/MokshThakur/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MokshThakur/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/MokshThakur/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MokshThakur/LeetCode/tree/master/0125-valid-palindrome) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MokshThakur/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MokshThakur/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/MokshThakur/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/MokshThakur/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MokshThakur/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MokshThakur/LeetCode/tree/master/0136-single-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/MokshThakur/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -310,5 +313,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MokshThakur/LeetCode/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/MokshThakur/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
