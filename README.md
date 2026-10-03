@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MokshThakur/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MokshThakur/LeetCode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/MokshThakur/LeetCode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/MokshThakur/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/MokshThakur/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/MokshThakur/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MokshThakur/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MokshThakur/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MokshThakur/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/MokshThakur/LeetCode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/MokshThakur/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/MokshThakur/LeetCode/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/MokshThakur/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/MokshThakur/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
