@@ -333,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/MokshThakur/LeetCode/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/MokshThakur/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/MokshThakur/LeetCode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
